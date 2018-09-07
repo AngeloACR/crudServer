@@ -1,0 +1,24 @@
+{
+  "name": "crudserver",
+  "version": "1.0.0",
+  "description": "An outstanding crud for mysql db",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "better-js-class": "*",
+    "cps": "*",
+    "mysql": "*",
+    "underscore": "*"
+  },
+  "author": "Angelo Crincoli",
+  "license": "ISC"
+}
